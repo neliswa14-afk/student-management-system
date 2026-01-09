@@ -1,0 +1,52 @@
+# =====================
+# Visual Studio / C#
+# =====================
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# ReSharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Rider IDE files
+.idea/
+
+# =====================
+# SQL Server
+# =====================
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Others
+# =====================
+*.DS_Store
+*.class
+*.exe
+*.dll
+*.pdb
+*.cache
+*.db
+
+# =====================
+# Node / JS (if any)
+# =====================
+node_modules/
